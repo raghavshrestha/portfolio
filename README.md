@@ -32,4 +32,4 @@ Bachelor of Information Technology (Network Security)
     • Data Visualisation with Power BI<br>
     • SQL Server<br>
 
-## Project works Portfolio
+## Project works 
