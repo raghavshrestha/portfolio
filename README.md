@@ -22,7 +22,7 @@ Bachelor of Information Technology (Network Security)
     • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management, Stakeholders, and Team.<br>
 
 ## Professional Training and Academic Activities
-#### Infosys Academy – Courses & Certifications 
+<b> Infosys Academy – Courses & Certifications </b>
     • Python for Data Science<br>
     • Data Privacy and Compliance<br>
     • Infosys Certified Microsoft Power BI Developer<br>
