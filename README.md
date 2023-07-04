@@ -1,6 +1,3 @@
-## Career Summary
-Seeking an opportunity to use my experience in data mining, manipulation, visualization, reporting, forecasting, optimization, and predictive modeling and analytical tools and techniques, like R and Python scripting language as well as DML for SQL and writing DAX queries, to generate valuable insights from raw datasets
-
 ## Skills
 **Technical Skills:** SQL, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner
 
@@ -11,7 +8,7 @@ TAFE NSI, Feb 2016 – Aug 2019
 Bachelor of Information Technology (Network Security) 
 
 ## Experience
-### Westpac – Infosys 						 		Nov 2021 - Current
+### Westpac – Infosys &nbsp;  &nbsp;  &nbsp;  Nov 2021 - Current
 ### Associate Consultant
  <br>• Developed and Administered Power BI Dashboard along with Service Now SQL Server to facilitate Senior Management generating reports with weekly and monthly governance KPI, ticket handling, and response group-wise as well as individual.<br>
     • Continuous improvements and development and generating reports to facilitate Stakeholders and Users to make informed decision-making.<br>
@@ -20,8 +17,8 @@ Bachelor of Information Technology (Network Security)
     • Excellent communication skills and providing application-level support and resolution to minimize service impacts due to application outages/issues, providing analysis and possible solutions with impacts calculated/identified.<br>
     • Efficient programming skills especially in Core Java, and Python as well as confidence with Spring Boot, microservices, Hibernate, and Angular.<br>
     • Exposure to Git Hub and CI/CD pipeline using Jenkins as well as docker and containerization app for testing and deployment using JFrog, and Bitbucket.<br>
-    • Exposure to ServiceNow for managing workflows for business ticketing operations.<br>
-    • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management and team.<br>
+    • Exposure to ServiceNow for managing workflows for business ticketing operations. Developed a Report dashboard for Backlog ticket reduction using ServiceNow builtin feature tools.<br>
+    • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management, Stakeholders, and Team.<br>
 
 ## Professional Training and Academic Activities
 ### Infosys Academy – Courses & Certifications 
@@ -31,5 +28,6 @@ Bachelor of Information Technology (Network Security)
     • Data Warehouse<br>
     • Data Visualisation with Power BI<br>
     • SQL Server<br>
+    • Advanced Excel<br>
 
 ## Project works 
