@@ -1,7 +1,7 @@
 # Data Scientists
 
-## Educational Background
+### Educational Background
 
-## Experience
+### Experience
 
-## Project works Portfolio
+### Project works Portfolio
