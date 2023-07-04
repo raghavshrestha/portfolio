@@ -23,6 +23,7 @@ Bachelor of Information Technology (Network Security)
 
 ## Professional Training and Academic Activities
 <b> Infosys Academy – Courses & Certifications </b>
+
     • Python for Data Science<br>
     • Data Privacy and Compliance<br>
     • Infosys Certified Microsoft Power BI Developer<br>
