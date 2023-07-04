@@ -13,8 +13,9 @@ Bachelor of Information Technology (Network Security)
 ## Experience
 ### Westpac – Infosys 						 		Nov 2021 - Current
 ### Associate Consultant
- <br>• Developed and Administered Power BI Dashboard along with Service Now SQL Server to facilitate Senior Management generating reports with weekly and monthly governance KPI, ticket handling, and response group-wise as well as individual. 
-    • Adapted into Agile environment for Minor Enhancement projects for given applications using lotus notes.<br>
+ <br>• Developed and Administered Power BI Dashboard along with Service Now SQL Server to facilitate Senior Management generating reports with weekly and monthly governance KPI, ticket handling, and response group-wise as well as individual.<br>
+    • Continuous improvements and development and generating reports to facilitate Stakeholders and Users to make informed decision-making.<br>
+    • Adapted into Agile environment for Minor Enhancement projects for given applications by improving existing as well as adding new functionality as required by Business Stakeholders and Users, using lotus notes.<br>
     • Maintain a high degree of user service for all support queries in assigned groups and adhere to all SLAs.<br>
     • Excellent communication skills and providing application-level support and resolution to minimize service impacts due to application outages/issues, providing analysis and possible solutions with impacts calculated/identified.<br>
     • Efficient programming skills especially in Core Java, and Python as well as confidence with Spring Boot, microservices, Hibernate, and Angular.<br>
