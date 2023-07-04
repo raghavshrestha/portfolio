@@ -18,4 +18,13 @@ Westpac – Infosys 		<tab>				 		Nov 2021 - Current
     • Exposure to Git Hub and CI/CD pipeline using Jenkins as well as docker and containerization app for testing and deployment using JFrog, and Bitbucket.<br>
     • Exposure to ServiceNow for managing workflows for business ticketing operations.<br>
     • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management and team.<br>
+
+### Professional Training and Academic Activities
+<b>Infosys Academy – Courses & Certifications</b><br>
+    • Python for Data Science<br>
+    • Data Privacy and Compliance<br>
+    • Infosys Certified Microsoft Power BI Developer<br>
+    • Data Warehouse<br>
+    • Data Visualisation with Power BI<br>
+    • SQL Server<br>
 ### Project works Portfolio
