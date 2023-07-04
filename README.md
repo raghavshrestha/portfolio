@@ -1,14 +1,14 @@
 ## Skills
-**Technical Skills:** SQL, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner
+**Technical Skills:** SQL, PL/SQL, Oracle, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner, ServiceNow, Linux shell scripting 
 
-**Collaboration Tool:** Git/GitHub, Agile Jira Kanban Board, Jenkins
+**Collaboration Tool:** DevOps Support (Git/GitHub, Jenkins, BitBucket, JFrog Artifactory), Agile Jira Kanban Board
 
 ## Educational Background
 TAFE NSI, Feb 2016 – Aug 2019
 Bachelor of Information Technology (Network Security) 
 
 ## Experience
-### Westpac – Infosys  &nbsp;           Nov 2021 - Current
+### Westpac – Infosys  &nbsp;  &nbsp;           Nov 2021 - Current
 <b> Associate Consultant</b>
 <br>
     • Developed and Administered Power BI Dashboard along with Service Now SQL Server to facilitate Senior Management generating reports with weekly and monthly governance KPI, ticket handling, and response group-wise as well as individual.<br>
