@@ -1,14 +1,13 @@
 ## Career Summary
-Seeking an opportunity to use my experience in data mining, manipulation, visualization, reporting, forecasting, optimization, and predictive modeling and analytical tools and techniques, like R and Python scripting language as well as DML for SQL and writing DAX queries,to generate valuable insights from raw datasets
+Seeking an opportunity to use my experience in data mining, manipulation, visualization, reporting, forecasting, optimization, and predictive modeling and analytical tools and techniques, like R and Python scripting language as well as DML for SQL and writing DAX queries, to generate valuable insights from raw datasets
 
 ## Skills
 <b>Technical Skills:</b> SQL, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner
 
-<br><b>Collaboration Tool:</b> Git/GitHub, Agile Jira Kanban Board, Jenkins
+<b>Collaboration Tool:</b> Git/GitHub, Agile Jira Kanban Board, Jenkins
 
 ## Educational Background
-TAFE NSI, Feb 2016 – Aug 2019 
-<br>
+TAFE NSI, Feb 2016 – Aug 2019
 Bachelor of Information Technology (Network Security) 
 
 ## Experience
@@ -24,8 +23,8 @@ Bachelor of Information Technology (Network Security)
     • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management and team.<br>
 
 ## Professional Training and Academic Activities
-### Infosys Academy – Courses & Certifications <br>
-    • Python for Data Science<br>
+### Infosys Academy – Courses & Certifications 
+<br>• Python for Data Science<br>
     • Data Privacy and Compliance<br>
     • Infosys Certified Microsoft Power BI Developer<br>
     • Data Warehouse<br>
