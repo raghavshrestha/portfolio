@@ -8,7 +8,7 @@ TAFE NSI, Feb 2016 – Aug 2019
 Bachelor of Information Technology (Network Security) 
 
 ## Experience
-### Westpac – Infosys            Nov 2021 - Current
+### Westpac – Infosys  &nbsp;           Nov 2021 - Current
 #### Associate Consultant
     • Developed and Administered Power BI Dashboard along with Service Now SQL Server to facilitate Senior Management generating reports with weekly and monthly governance KPI, ticket handling, and response group-wise as well as individual.<br>
     • Continuous improvements and development and generating reports to facilitate Stakeholders and Users to make informed decision-making.<br>
