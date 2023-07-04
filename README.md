@@ -1,7 +1,7 @@
 ## Career Summary
 Seeking an opportunity to use my experience in data mining, manipulation, visualization, reporting, forecasting, optimization, and predictive modeling and analytical tools and techniques, like R and Python scripting language as well as DML for SQL and writing DAX queries,to generate valuable insights from raw datasets
 
-##Skills
+## Skills
 <b>Technical Skills:</b> SQL, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner
 <br><b>Collaboration Tool:</b> Git/GitHub, Agile Jira Kanban Board, Jenkins
 
