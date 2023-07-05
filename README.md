@@ -32,4 +32,5 @@ Bachelor of Information Technology (Network Security)
     • Advanced Excel<br>
 
 ## Project works 
-    • Details will be shared shortly.
+<br>
+    Link Power BI Project works (https://github.com/raghavshrestha/powerbi-projects.git)
