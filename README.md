@@ -36,5 +36,5 @@ Bachelor of Information Technology (Network Security)
     • Advanced Excel<br>
 
 ## Project works 
- #### •HR Employee Data     [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main/HR%20Employee%20Analysis) &nbsp;  &nbsp; &nbsp; &nbsp;    -     &nbsp;  &nbsp; &nbsp; &nbsp; 
+ #### HR Employee Data&nbsp;  &nbsp; [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main/HR%20Employee%20Analysis) &nbsp;  &nbsp; &nbsp; &nbsp;    -     &nbsp;  &nbsp; &nbsp; &nbsp; 
    [Interactive Dashboard Link](https://app.powerbi.com/groups/me/reports/b8fd93d3-6d14-431e-ab3c-65858cead605/ReportSection?experience=power-bi)
