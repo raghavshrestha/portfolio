@@ -1,7 +1,13 @@
+# Profile
+To achieve a responsible and challenging position in an organization where my knowledge and talent could provide the best of the solutions and also, to enhance my technical skills and contribute towards the development of the organization.
+
 ## Skills
 **Technical Skills:** SQL, PL/SQL, Oracle, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner, ServiceNow, Linux shell scripting 
-
 **Collaboration Tool:** DevOps Support (Git/GitHub, Jenkins, BitBucket, JFrog Artifactory), Agile Jira Kanban Board
+**Personal Skills:** 
+• Problem Solver with an analytical approach towards the issue to identify the root cause and provide/implement effective permanent solutions.
+• Creative and Flexible when necessary
+• Self-Learner and Team Player
 
 ## Educational Background
 TAFE NSI, Feb 2016 – Aug 2019
