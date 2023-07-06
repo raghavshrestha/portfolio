@@ -4,8 +4,7 @@ logo: /assets/raghav_pp_1.png
 
 
 
-description: Contact Me
-mail= raghav.shrestha@gmail.com 
-call= 0412 718 345
+description: 
+mail: raghav.shrestha@gmail.com 
 #show_downloads: True
 theme: jekyll-theme-minimal
