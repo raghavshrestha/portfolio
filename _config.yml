@@ -6,4 +6,4 @@ logo: /assets/raghav_pp_1.png
 
 description:  " "
 #show_downloads: True
-theme: jekyll-theme-minimal
+remote_theme: jekyll-theme-minimal
