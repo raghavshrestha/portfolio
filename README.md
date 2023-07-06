@@ -33,4 +33,5 @@ Bachelor of Information Technology (Network Security)
 
 ## Project works 
 <br>
-  •  [HR Employee Analysis](https://github.com/raghavshrestha/powerbi-projects/tree/main/HR%20Employee%20Analysis)
+  •  [HR Employee Analysis](https://github.com/raghavshrestha/powerbi-projects/tree/main/HR%20Employee%20Analysis) 
+  • [Interactive Dashboard](https://app.powerbi.com/groups/me/reports/b8fd93d3-6d14-431e-ab3c-65858cead605/ReportSection?experience=power-bi)
