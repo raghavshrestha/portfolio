@@ -20,7 +20,8 @@
 ## Experience
 ### Westpac – Infosys  &nbsp;  &nbsp;           Nov 2021 - Current
 <b> Associate Consultant</b>
-<br><p align="justify">
+<br>
+<p align="justify">
    &nbsp;  &nbsp; • Continuous improvements and development features and reports, like weekly and monthly governance KPI in Power BI, to facilitate Stakeholders and Users to make informed decision-making.<br>
    &nbsp;  &nbsp; • Adapted into Agile environment for Minor Enhancement projects for given applications by improving existing as well as adding new functionality as required by Business Stakeholders and Users, using lotus notes.<br>
    &nbsp;  &nbsp; • Maintain a high degree of user service for all support queries in assigned groups and adhere to all SLAs.<br>
