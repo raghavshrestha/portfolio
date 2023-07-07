@@ -41,8 +41,6 @@
     &nbsp;  &nbsp; • Advanced Excel<br>
 <br><b> &nbsp; Enterprise DNA</b><br>
     &nbsp; &nbsp;  • Power BI Data Analyst 
-   
- [![Ultimate guide to DAX](/assets/img/guide_2_DAX.png "Ultimate guide to DAX")]: #
 </p>
 
 ## Project works 
