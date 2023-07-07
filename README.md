@@ -45,7 +45,7 @@
     &nbsp; &nbsp; • SQL Server<br>
     &nbsp;  &nbsp; • Advanced Excel<br>
 <br><b> &nbsp; Enterprise DNA</b><br>
-    &nbsp; &nbsp;  • Ultimate Beginners Guide to DAX
+    &nbsp; &nbsp;  • Power BI Data Analyst
 </p>
 
 ## Project works 
