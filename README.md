@@ -3,12 +3,9 @@
 
 ## Skills
 <p align="justify">
-    
-&nbsp;
+
 **Technical Skills:** SQL, PL/SQL, Oracle, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner, ServiceNow, Linux shell scripting <br>
-&nbsp; 
 **Collaboration Tool:** DevOps Support (Git/GitHub, Jenkins, BitBucket, JFrog Artifactory), Agile Jira Kanban Board<br>
-&nbsp;
 **Personal Skills:** 
 &nbsp; &nbsp; • Problem Solver with an analytical approach towards the issue to identify the root cause and provide/implement effective permanent solutions.
 &nbsp; &nbsp; • Creative and Flexible when necessary
