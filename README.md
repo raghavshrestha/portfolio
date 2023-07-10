@@ -3,6 +3,7 @@
 
 ## Skills
 **Technical Skills:** SQL, PL/SQL, Oracle, Power BI, Python, MATLAB, MS Access, R language, Java, Angular, Typescript, Agile Practioner, ServiceNow, Linux shell scripting <br>
+SQL Server Integration Services & Analysis Services<br>
 **Collaboration Tool:** DevOps Support (Git/GitHub, Jenkins, BitBucket, JFrog Artifactory), Agile Jira Kanban Board<br>
 **Personal Skills:** 
 &nbsp; &nbsp; • Problem Solver with an analytical approach towards the issue to identify the root cause and provide/implement effective permanent solutions.
@@ -34,10 +35,11 @@
 <b> Infosys Academy – Courses & Certifications </b>
 <br> &nbsp; &nbsp; • Python for Data Science<br>
     &nbsp;  &nbsp; • Data Privacy and Compliance<br>
-    &nbsp; &nbsp; • Infosys Certified Microsoft Power BI Developer<br>
+    &nbsp; &nbsp;  • Infosys Certified Microsoft Power BI Developer<br>
     &nbsp;  &nbsp; • Data Warehouse<br>
     &nbsp;  &nbsp; • Data Visualisation with Power BI<br>
-    &nbsp; &nbsp; • SQL Server<br>
+    &nbsp; &nbsp;  • SQL Server<br>
+   &nbsp; &nbsp;   • ETL Using SSIS <br>
     &nbsp;  &nbsp; • Advanced Excel<br>
 <br><b> &nbsp; Enterprise DNA</b><br>
     &nbsp; &nbsp;  • Power BI Data Analyst 
