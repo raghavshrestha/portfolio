@@ -46,4 +46,6 @@ SQL Server Integration Services & Analysis Services<br>
 </p>
 
 ## Project works 
-#### HR Employee Data  &nbsp;  [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main/HR%20Employee%20Analysis) &nbsp;  &nbsp;     -  [Interactive Dashboard Link](https://app.powerbi.com/groups/me/reports/b8fd93d3-6d14-431e-ab3c-65858cead605/ReportSection?experience=power-bi)
+#### Demo Works
+##### HR Employee Data  &nbsp;  [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main/HR%20Employee%20Analysis) &nbsp;  &nbsp;   
+##### Data Modelling Workout  &nbsp;  [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main/EDNA_Workouts/Data%20Modeling) &nbsp;  &nbsp;   
