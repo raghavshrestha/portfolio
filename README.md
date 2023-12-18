@@ -26,31 +26,38 @@
 <b> IT Consultant</b>
 <br>
 <p align="justify">
-    &nbsp;  &nbsp; • Involved in end-to-end implementation of Power BI Dashboard and Report development for an Infosys-Westpac client, ANF Governance Report, Backlog Tickets Report, and JIRA-Kanban Report Dashboard.
- &nbsp;  &nbsp;• Experience in developing different types of reports like from scratch reports, Data Modeling, Transformation, Data Cleanup, Remap reports, and Snapshot reports.
- &nbsp;  &nbsp; • Deployment Optimization and implementation of Row Level Security of Dashboard and Report in Power BI service.
- &nbsp;  &nbsp; •  Reports resulted in saving 8-10 hours of manual reporting work as well as reduced backlog tickets in Service Now significantly, hence improving the team's performance and increasing efficiency.
- &nbsp;  &nbsp; • Created reports using features like Drill down, Drill through, Matrix, Pie/ Donut chart, Column/ Bar chart, Gauge, and KPI index.
- &nbsp;  &nbsp; • Prepare and maintain data and documentation using Confluence.
- &nbsp;  &nbsp; ▪ Developing and modifying technical documentation to support application maintenance, operations, and end-user training.
- &nbsp;  &nbsp; ▪ Developing, testing, and implementing new technologies with the team members, Contacting the client for respective datasets, and responding with the reports as effectively as possible
- &nbsp;  &nbsp; ▪ Designed several use cases and worked with the model designing team.
- &nbsp;  &nbsp; ▪ Familiar with JIRA for project tracking in Agile development and customer support
- &nbsp;  &nbsp; ▪ SQL Query for database integration
- &nbsp;  &nbsp; ▪ Understanding, and analyzing user requirements. Also, communicating and writing skills for documentation
- &nbsp;  &nbsp; ▪ Perform root cause analysis, troubleshoot, and resolve problems
- &nbsp;  &nbsp; • Continuous improvements and development features and reports, like weekly and monthly governance KPI in Power BI, to facilitate Stakeholders and Users to make informed decision-making.<br>
-   &nbsp;  &nbsp; • Adapted into Agile environment for Minor Enhancement projects for given applications by improving existing as well as adding new functionality as required by Business Stakeholders and Users, using Lotus Notes.<br>
-   &nbsp;  &nbsp; • Maintain a high degree of user service for all support queries in assigned groups and adhere to all SLAs.<br>
-   &nbsp;  &nbsp; • Excellent communication skills and providing application-level support and resolution to minimize service impacts due to application outages/issues, providing analysis and possible solutions with impacts calculated/identified.<br>
+    &nbsp;  &nbsp; • Involved in end-to-end implementation of Power BI Dashboard and Report development for an Infosys-Westpac client, ANF Governance Report, Backlog Tickets Report, and 
+         JIRA-Kanban Report Dashboard.<br>
+   &nbsp;  &nbsp;• Experience in developing different types of reports like from scratch reports, Data Modeling, Transformation, Data Cleanup, Remap reports, and Snapshot reports.<br>
+   &nbsp;  &nbsp; • Deployment Optimization and implementation of Row Level Security of Dashboard and Report in Power BI service.<br>
+   &nbsp;  &nbsp; •  Reports resulted in saving 8-10 hours of manual reporting work as well as reduced backlog tickets in Service Now significantly, hence improving the team's 
+        performance and increasing efficiency.<br>
+   &nbsp;  &nbsp; • Created reports using features like Drill down, Drill through, Matrix, Pie/ Donut chart, Column/ Bar chart, Gauge, and KPI index.<br>
+   &nbsp;  &nbsp; • Prepare and maintain data and documentation using Confluence.<br>
+   &nbsp;  &nbsp; ▪ Developing and modifying technical documentation to support application maintenance, operations, and end-user training.<br>
+   &nbsp;  &nbsp; ▪ Developing, testing, and implementing new technologies with the team members, Contacting the client for respective datasets, and responding with the reports as 
+        effectively as possible.<br>
+   &nbsp;  &nbsp; ▪ Designed several use cases and worked with the model designing team.<br>
+   &nbsp;  &nbsp; ▪ Familiar with JIRA for project tracking in Agile development and customer support.<br>
+   &nbsp;  &nbsp; ▪ SQL Query for database integration.<br>
+   &nbsp;  &nbsp; ▪ Understanding, and analyzing user requirements. Also, communicating and writing skills for documentation.<br>
+   &nbsp;  &nbsp; ▪ Perform root cause analysis, troubleshoot, and resolve problems<br>
+   &nbsp;  &nbsp; • Continuous improvements and development features and reports, like weekly and monthly governance KPI in Power BI, to facilitate Stakeholders and Users to make 
+        informed decision-making.<br>
+  &nbsp;  &nbsp; • Adapted into Agile environment for Minor Enhancement projects for given applications by improving existing as well as adding new functionality as required by Business 
+       Stakeholders and Users, using Lotus Notes.<br>
+  &nbsp;  &nbsp; • Maintain a high degree of user service for all support queries in assigned groups and adhere to all SLAs.<br>
+  &nbsp;  &nbsp; • Excellent communication skills and providing application-level support and resolution to minimize service impacts due to application outages/issues, providing 
+       analysis and possible solutions with impacts calculated/identified.<br>
   &nbsp;   &nbsp; • Exposure to Git Hub and CI/CD pipeline using Jenkins as well as docker and containerization app for testing and deployment using JFrog, Maven, and Bitbucket.<br>
-  &nbsp;   &nbsp; • Exposure to ServiceNow for managing workflows for business ticketing operations. Developed Domain dashboard to facilitate Backlog ticket reduction and effective monitoring and other objectives.<br>
+  &nbsp;   &nbsp; • Exposure to ServiceNow for managing workflows for business ticketing operations. Developed Domain dashboard to facilitate Backlog ticket reduction and effective 
+       monitoring and other objectives.<br>
    &nbsp;  &nbsp; • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management, Stakeholders, and other teams.<br>
 </p>
 
 ## Professional Training and Academic Activities
 <p align="justify">
-   <b> Microsoft Certified Power BI Data Analyst</b>
+   <b> Microsoft Certified Power BI Data Analyst</b><br>
 <b> Infosys Academy – Courses & Certifications </b>
 <br> &nbsp; &nbsp; • Python for Data Science<br>
     &nbsp;  &nbsp; • Data Privacy and Compliance<br>
@@ -68,4 +75,4 @@
 ## Project works 
 #### Demo Works
 ##### Samples Works  &nbsp;  [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main) &nbsp;  &nbsp;   
-##### Data Modelling Workout  &nbsp;  [File Repository Link](https://github.com/raghavshrestha/powerbi-projects/tree/main/EDNA_Workouts/Data%20Modeling) &nbsp;  &nbsp;   
+
