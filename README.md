@@ -22,8 +22,8 @@
 &nbsp; &nbsp; TAFE NSI, Feb 2016 – Aug 2019
 
 ## Experience
-### Westpac – Infosys  &nbsp;  &nbsp;           Nov 2021 - Current
-<b> Associate Consultant</b>
+### Westpac – Infosys  &nbsp;  &nbsp;           Nov 2021 - Dec 2023
+<b> IT Consultant</b>
 <br>
 <p align="justify">
    &nbsp;  &nbsp; • Continuous improvements and development features and reports, like weekly and monthly governance KPI in Power BI, to facilitate Stakeholders and Users to make informed decision-making.<br>
