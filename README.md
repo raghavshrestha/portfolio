@@ -25,7 +25,7 @@
 ### Westpac – Infosys  &nbsp;  &nbsp;           Nov 2021 - Dec 2023
 <b> IT Consultant</b>
 <br>
-<p align="justify">
+
     &nbsp;  &nbsp; • Involved in end-to-end implementation of Power BI Dashboard and Report development for an Infosys-Westpac client, ANF Governance Report, Backlog Tickets Report, and 
          JIRA-Kanban Report Dashboard.<br>
    &nbsp;  &nbsp;• Experience in developing different types of reports like from scratch reports, Data Modeling, Transformation, Data Cleanup, Remap reports, and Snapshot reports.<br>
@@ -53,11 +53,11 @@
   &nbsp;   &nbsp; • Exposure to ServiceNow for managing workflows for business ticketing operations. Developed Domain dashboard to facilitate Backlog ticket reduction and effective 
        monitoring and other objectives.<br>
    &nbsp;  &nbsp; • Exposure to Jira and Kanban for communicating/reflecting on project/work/issues progress with Management, Stakeholders, and other teams.<br>
-</p>
+
 
 ## Professional Training and Academic Activities
-<p align="justify">
-   <b> Microsoft Certified Power BI Data Analyst</b><br>
+
+   <b> Microsoft Certified Power BI Data Analyst</b><br><br>
 <b> Infosys Academy – Courses & Certifications </b>
 <br> &nbsp; &nbsp; • Python for Data Science<br>
     &nbsp;  &nbsp; • Data Privacy and Compliance<br>
@@ -69,8 +69,8 @@
     &nbsp;  &nbsp; • Advanced Excel<br>
     &nbsp;  &nbsp; • ITIL V4 - Foundation Program<br>
 <br><b> &nbsp; Enterprise DNA</b><br>
-    &nbsp; &nbsp;  • Power BI Data Analyst 
-</p>
+    &nbsp; &nbsp;  • Power BI Data Analyst <br><br>
+
 
 ## Project works 
 #### Demo Works
