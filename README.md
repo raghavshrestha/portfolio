@@ -23,10 +23,9 @@
 
 ## Experience
 ### Westpac – Infosys  &nbsp;  &nbsp;           Nov 2021 - Dec 2023
-<b> IT Consultant</b>
-<br>
+<b> IT Consultant</b><br>
 
-    &nbsp;  &nbsp; • Involved in end-to-end implementation of Power BI Dashboard and Report development for an Infosys-Westpac client, ANF Governance Report, Backlog Tickets Report, and 
+   &nbsp;  &nbsp; • Involved in end-to-end implementation of Power BI Dashboard and Report development for an Infosys-Westpac client, ANF Governance Report, Backlog Tickets Report, and 
          JIRA-Kanban Report Dashboard.<br>
    &nbsp;  &nbsp;• Experience in developing different types of reports like from scratch reports, Data Modeling, Transformation, Data Cleanup, Remap reports, and Snapshot reports.<br>
    &nbsp;  &nbsp; • Deployment Optimization and implementation of Row Level Security of Dashboard and Report in Power BI service.<br>
