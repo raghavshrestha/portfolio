@@ -69,7 +69,8 @@
     &nbsp;  &nbsp; • ITIL V4 - Foundation Program<br>
 <br><b> &nbsp; Enterprise DNA</b><br>
     &nbsp; &nbsp;  • Power BI Data Analyst <br><br>
-
+<br><b> &nbsp; Microsoft Certified Data Analyst, Jan 2023</b><br>
+    
 
 ## Project works 
 #### Demo Works
